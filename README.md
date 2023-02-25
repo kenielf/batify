@@ -5,12 +5,12 @@ A small and versatile battery level notifier!
 ***Note: any point marked with `(?)` is not guaranteed to make into the final code!***
 
 ### Makefile
- - [ ] Create initial version;
+ - [X] Create initial version;
  - [ ] Improve with DEBUG and RELEASE targets;
  - [ ] Create install / uninstall targets;
 
 ### Code
- - [ ] Write argument parser;
+ - [X] Write argument parser;
  - [ ] Find all batteries and select default;
  - [ ] Get battery info:
    - Label / ID, Type, Status, Percentage;
